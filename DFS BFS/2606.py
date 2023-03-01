@@ -1,5 +1,6 @@
 # 2606
 # 바이러스
+
 from collections import deque
 
 n_computer = int(input())
